@@ -1,5 +1,8 @@
 <h1 align="center">Hi there👋, I'm Ksenia</h1>
 
+<img src="octocat.png" style="width: 45%" align="right">
+
+
 I'm a Cybersecurity Specialist intrested in:
 
 - 🐞 Bug Bounty stuff
@@ -9,8 +12,6 @@ I'm a Cybersecurity Specialist intrested in:
 - 🌩️ Cloud misconfigs
 - 🔗 Smart contract audit
 - 🤖 Machine Learning vulnerabilities
-
-<p align="left"> <img src="octocat.png"></p>
 
 ## Skills
 
